@@ -18,7 +18,7 @@ public class AdminLogin {
 	public void choices() {
 		System.out.println("Welcome Admin!");
 		System.out.println("Enter what you want to do?");
-		System.out.println("1. Validate Visitor" + "\n2. Sort by Name" + "\n3. Sort by Email" + "\n4. Sort by Age");
+		System.out.println("1. Validate V2isitor" + "\n2. Sort by Name" + "\n3. Sort by Email" + "\n4. Sort by Age");
 		int i = scn.nextInt();
 		switch (i) {
 		case 1:
