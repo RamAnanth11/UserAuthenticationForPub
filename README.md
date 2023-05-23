@@ -7,8 +7,14 @@ UserAuthenticationForPub is a secure and efficient code that provides authentica
 Please ⭐️ this repo and share it with others
 
 ## Screenshots
- ![Register Visitor](screenshots/RegisterVisitor.png) | ![Admin Login And Validation](screenshots/AdminLoginAndValidation.png)
 
+ ![Register Visitor](screenshots/RegisterVisitor.png) 
+ 
+ Register Visitor
+ 
+ ![Admin Login And Validation](screenshots/AdminLoginAndValidation.png)
+
+Admin Login And Validation
 ## Requirements 🔧
 * Java 8 or higher.
 * Maven Project with MySQL and lombok dependencies.
